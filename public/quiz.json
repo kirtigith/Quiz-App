@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question" : "What happens if you update state inside useEffect without a dependency array?",
+        "options": [
+            "Runs once",
+            "Infinite loop",
+            "Never runs",
+            "Runs on unmount"
+        ],
+        "answer": "Infinite loop"
+    },
+    {
+        "id": "02",
+        "question" : "Which is NOT a benefit of React’s Virtual DOM?",
+        "options": [
+            "Faster updates",
+            "Better SEO",
+            "Efficient diffing",
+            "Less direct DOM access"
+        ],
+        "answer": "Better SEO"
+    },
+    {
+        "id": "03",
+        "question" : "What does useMemo do?",
+        "options": [
+            "Caches values",
+            "Replaces useState",
+            " Manipulates DOM",
+            "Runs side effects"
+        ],
+        "answer": "Caches values"
+    },
+    {
+        "id": "04",
+        "question" : "Why use keys in React lists?",
+        "options": [
+            "Improve CSS",
+            " Track changes",
+            " Prevent re-renders",
+            " Avoid errors"
+        ],
+        "answer": "Track changes"
+    },
+    {
+        "id": "05",
+        "question" : "What is a closure in JavaScript?",
+        "options": [
+            "Blocks scope",
+            "Remembers outer variables",
+            "Runs once",
+            "Replaces async/await"
+        ],
+        "answer": "Remembers outer variables"
+    },
+    {
+        "id": "06",
+        "question" : "Difference between null and undefined?",
+        "options": [
+            "Same thing",
+            "null is intentional, undefined is not",
+            "null is default",
+            "undefined is an object"
+        ],
+        "answer": "null is intentional, undefined is not"
+    },
+    {
+        "id": "07",
+        "question" : "What is hoisting in JavaScript?",
+        "options": [
+            "Moves variables up",
+            "Only functions move",
+            "Only let and const move",
+            "Works in loops only"
+        ],
+        "answer": "Moves variables up"
+    },
+    {
+        "id": "08",
+        "question" : "Which property makes an element responsive?",
+        "options": [
+            "min-width",
+            "max-width",
+            "width: 100%",
+            "flex-grow"
+        ],
+        "answer": "width: 100%"
+    },
+    {
+        "id": "09",
+        "question" : "What does z-index control?",
+        "options": [
+            "Layer order",
+            "Animation speed",
+            "Flex size",
+            "Shadows"
+        ],
+        "answer": "Layer order"
+    },
+    {
+        "id": "10",
+        "question" : "Which feature adjusts styles for screen sizes?",
+        "options": [
+            ":hover",
+            "@media",
+            "::before",
+            "z-index"
+        ],
+        "answer": "@media"
+    }
+]
